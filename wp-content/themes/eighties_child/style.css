@@ -1,0 +1,47 @@
+/*
+Theme Name: Eighties child theme
+Theme URI: http://creative.colorado.edu/~thpa9933/DEV
+Description: A child theme of eighties
+Author: Thomas Payne
+Template: eighties
+Version: 0.1.0
+*/
+.widget-area-toggle{
+  display: none;
+}
+
+.site-info{
+  display: none;
+}
+
+.entry-title:hover{
+  color: darkseagreen;
+}
+
+input.search-field{
+  background: darkseagreen;
+}
+h4.main-navigation-title{
+  color: darkseagreen;
+}
+
+h1.site-title{
+  background: white;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  opacity: .8;
+}
+
+h2.site-description{
+  color: white;
+}
+
+.site-title a{
+  color: black;
+}
+
+.hentry img{
+  box-shadow: -2px 2px 4px black;
+}
